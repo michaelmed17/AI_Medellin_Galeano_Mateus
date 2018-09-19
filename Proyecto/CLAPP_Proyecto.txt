@@ -1,0 +1,36 @@
+CLAPP
+
+
+
+Aplicativo m¢vil que facilite la b£squeda de bares y discotecas en la localidad de Chapinero en la ciudad de Bogot  D.C.
+
+
+
+
+
+El entretenimiento nocturno de Bogot , como lo son los bares y discotecas, son reconocidos en todo el pa¡s por su variedad y calidad, lo que permite que personas locales y del extranjero busquen entre la ciudad la gran diversidad que posee en cuanto a m£sica, precios, ubicaci¢n, ambientaci¢n y otros factores que genera el espacio perfecto para aquellos que no quieren limitarse a una sola forma de diversi¢n.
+
+Con lo anterior, se permite observar la creaci¢n masiva de bares y discotecas que hay en todas las localidades de Bogot , aunque si se profundiza en el tema en Internet, como modo online, no se encuentra la informaci¢n suficiente de la totalidad de puntos disponibles para conocer a fondo un establecimiento o el necesario para tomar una decisi¢n acorde con lo que se desea. 
+
+Igualmente, a manera offline, es decir, a personas conocidas, la informaci¢n que brindan es de forma subjetiva y no se aproxima a lo que realmente quiere el usuario conocer con respecto al establecimiento. Es por esto que se hace imposible conocer todos los bares de bogot  y obtener informaci¢n de ellos.
+
+
+
+INTEGRANTES
+
+
+
+David Mateus Poveda
+
+Michael Medell¡n Rodr¡guez
+
+Valentina Galeano Rodr¡guez
+
+
+
+
+
+
+
+
+
